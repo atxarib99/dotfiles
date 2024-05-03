@@ -1,0 +1,14 @@
+Here lies configuration that must be done:
+
+coc-install
+cd ~/.local/share/nvim/lazy/coc.nvim/ && npm ci
+
+:CocInstall coc-jedi
+
+
+
+.config/nvim/coc-settings.json
+	Python Path, used a common path.
+
+
+

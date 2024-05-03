@@ -1,0 +1,8 @@
+{
+  "coc-jedi": { "branch": "main", "commit": "b79cb60389a7a78d79291ea73d8e0e2591f40f27" },
+  "coc.nvim": { "branch": "master", "commit": "48bae5f48c274e41637b8d7e4cfede1a0fe15dea" },
+  "lazy.nvim": { "branch": "main", "commit": "3f13f080434ac942b150679223d54f5ca91e0d52" },
+  "neoconf.nvim": { "branch": "main", "commit": "9aeec25740fd009594e63b34b1c0b67f8eb3adce" },
+  "neodev.nvim": { "branch": "main", "commit": "ce9a2e8eaba5649b553529c5498acb43a6c317cd" },
+  "which-key.nvim": { "branch": "main", "commit": "4433e5ec9a507e5097571ed55c02ea9658fb268a" }
+}
